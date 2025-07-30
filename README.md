@@ -129,15 +129,5 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&layout=compact" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <b>🔤 Most Used Languages</b>: A breakdown of my coding activity across repositories.
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Sundar-Data-Scientist&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
-
 
 
