@@ -129,5 +129,9 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&layout=compact" alt="Most Used Languages" />
 </p>
 
+## 📬 Contact Me
 
+- 📧 **Email**: [velsundar490@gmail.com](mailto:velsundar490@gmail.com)  
+- 🔗 [LinkedIn](http://www.linkedin.com/in/sundar-v-389bb4310)  
+- 📍 **Location**: Virudhachalam, Tamil Nadu
 
