@@ -2,8 +2,8 @@
 
 **Data Science Enthusiast | AI & ML Innovator | Real-Time Tech Builder**
 
-🎓 Currently pursuing **M.Sc in Data Science** @ *SASTRA Deemed to be University*  
-🔍I specialize in **AI-driven applications**, **predictive modeling**, and **real-time systems** using cutting-edge technology. I’m passionate about building innovative solutions that impact healthcare and business optimization.
+>🎓 Currently pursuing **M.Sc in Data Science** @ *SASTRA Deemed to be University*  
+>🔍I specialize in **AI-driven applications**, **predictive modeling**, and **real-time systems** using cutting-edge technology. I’m passionate about building innovative solutions that impact healthcare and business optimization.
 
 ---
 
