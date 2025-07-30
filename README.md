@@ -116,32 +116,12 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
 - **Why It Rocked:** This internship pushed me to apply theory in production-like environments and build systems that are scalable, smart, and impactful.
 
 ---
-# 📈 Stats and Activity
+# 📊 GitHub Stats and Activity:
+![](https://github-readme-stats.vercel.app/api?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here’s a quick look at my GitHub contributions and favorite programming languages:
+---
+[![](https://visitcount.itsvg.in/api?id=Sundar-Data-Scientist&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-🔹 **Total Stars Earned:** `0`  
-🔹 **Total Commits (2025):** `56`  
-🔹 **Total Issues:** `0`  
-🔹 **Contributed to (last year):** `1`
-
-  </td>
-  <td valign="top" width="50%">
-    
-### 🎯 Most Used Languages  
-- 🟦 Python `85.19%`  
-- 🟧 Jupyter Notebook `13.13%`  
-- ⚫ C `0.83%`  
-- 🟦 TypeScript `0.44%`  
-- 🟨 Cython `0.23%`  
-- 🟥 C++ `0.19%`  
-
-  </td>
-  </tr>
-</table>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
