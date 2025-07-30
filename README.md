@@ -54,3 +54,15 @@ I created the **Smart Interview System**, a web platform that uses AI to make hi
 
 **Tech Used:** FastAPI, Bootstrap, YOLOv5, Faster R-CNN, TF-IDF, LLaMA 2/3.2, Sentence Transformers, Google Web Speech API  
 
+### 📄 Multimodal PDF Q&A Chatbot using OCR and Local LLM
+
+Built an interactive PDF QA system that understands both text and images from uploaded documents.
+
+- 🖼️ **Image-to-Text:** Used Tesseract OCR + PyMuPDF to extract text from images.
+- 🧠 **Semantic Retrieval:** LangChain + HuggingFace embeddings (MiniLM-L6-v2), stored in FAISS.
+- 🔍 **Smart Answering:** Enhanced relevance using Maximal Marginal Relevance (MMR).
+- 🤖 **LLM Response Generation:** Queried local LLaMA2 model (via Ollama) with custom prompts.
+- 💻 **User Interface:** Deployed using Streamlit for real-time uploads and chat-style querying.
+
+**Tech Used:** Tesseract OCR, PyMuPDF, LangChain, FAISS, HuggingFace, LLaMA2 (Ollama), Streamlit
+
