@@ -23,8 +23,6 @@ Welcome to my data-driven world! I’m **Sundar V**, a dedicated and curious **D
 
 Here’s a snapshot of my core technical skills—well-rounded, battle-tested, and ready to tackle real-world data and AI challenges.
 
-# 💼 Tech Stack
-
 ## 🚀 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,7 +36,6 @@ Here’s a snapshot of my core technical skills—well-rounded, battle-tested, a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💻 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📚 Frameworks
