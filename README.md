@@ -35,9 +35,10 @@ Here’s a snapshot of my core technical skills—well-rounded, battle-tested, a
 | **Other Cool Stuff**      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-black?style=for-the-badge) ![smtplib](https://img.shields.io/badge/smtplib-black?style=for-the-badge) |
 
 ---
+## 🚀 Projects
 
 ### 🤖 Smart AI Interview System for Recruitment & Skill Assessment
---
+
 I created the **Smart Interview System**, a web platform that uses AI to make hiring **faster**, **fairer**, and **more efficient**. It automates three major interview types:
 
 - ✅ Aptitude Tests  
