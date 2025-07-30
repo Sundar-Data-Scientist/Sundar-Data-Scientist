@@ -117,22 +117,22 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
 
 ---
 # 📊 GitHub Stats and Activity:
-## 📊 GitHub Stats
 
-Here’s a snapshot of my GitHub activity and contributions:
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false" alt="Sundar's GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&layout=compact" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<!-- Overall GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Sundar-Data-Scientist&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</p>
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&layout=compact)
-
----
-
-**🔤 Most Used Languages**: A breakdown of my coding activity by language across my repositories, showing strong use of Python, SQL, and more.
-
-[![](https://visitcount.itsvg.in/api?id=Sundar-Data-Scientist&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
