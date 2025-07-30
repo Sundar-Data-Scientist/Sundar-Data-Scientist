@@ -43,54 +43,13 @@ I created the **Smart Interview System**, a web platform that uses AI to make hi
 - ✅ Aptitude Tests  
 - 💬 Q&A Interviews  
 - 🧠 HR Interviews (automated or live)
-
 ---
+- 🧠 **Aptitude Test:** Scored spoken answers with TF-IDF.
+- 💬 **Q&A Round:** Sentence Transformers select job-relevant questions, LLaMA 2 generates QA pairs, and TF-IDF scores responses.
+- 👤 **HR Interview:** LLaMA 3.2 evaluates open-ended answers on clarity and relevance.
+- 🎯 **Monitoring:** YOLOv5 ensures one person; Faster R-CNN detects mobile phones. 3 violations auto-end the interview.
+- 🗣️ **Speech Recognition:** Google Web Speech API converts voice to text.
+- 📊 **Admin Dashboard:** Displays scores, trends, and reports.
 
-#### 🛠️ Tech Stack
-**FastAPI**, **Bootstrap**, **YOLOv5**, **Faster R-CNN**, **TF-IDF**, **LLaMA 2 & 3.2**, **Sentence Transformers**, **Google Web Speech API**
-
----
-
-#### ⚙️ Core Features
-
-- 🎓 **Aptitude Test**  
-  Uses **TF-IDF** to assess pronunciation by comparing spoken answers to the correct text.
-
-- 💻 **Q&A Interview**  
-  - Uses **Sentence Transformers** to pick questions based on job role (e.g., coding for developers).  
-  - **LLaMA 2** generates both questions and expected answers.  
-  - Responses are scored (0–5) using similarity with TF-IDF.
-
-- 🧠 **HR Interview**  
-  - **LLaMA 3.2** scores open-ended answers (e.g., “Why do you want this job?”) based on clarity and relevance.
-
-- 👀 **Monitoring System**  
-  - **Faster R-CNN** detects **mobile phones** using a custom 198-image dataset with data augmentation (rotation, flipping).  
-  - **YOLOv5** ensures only **one person** is in frame.  
-  - If **3 violations** occur, the interview is auto-terminated.
-
-- 🗣️ **Speech Recognition**  
-  Converts audio responses to text using **Google Web Speech API** for scoring.
-
----
-
-#### ⚠️ Challenges Tackled
-
-- 📷 **Small dataset for phone detection**  
-  → Solved with **data augmentation** (rotation, flip, contrast).
-
-- 🔇 **Noisy speech input**  
-  → Added **30-second timer** and **silence detection** to filter garbage input.
-
----
-
-#### 📊 Results
-
-- ⏱️ Reduced hiring time
-- 📈 Improved scoring fairness
-- 📊 Dashboard shows average scores, job role trends, and violation reports
-
----
-
-This project highlights my hands-on skills in **Natural Language Processing**, **Computer Vision**, and **AI system deployment**—tailored for real-world AI/ML job roles.
+**Tech Used:** FastAPI, Bootstrap, YOLOv5, Faster R-CNN, TF-IDF, LLaMA 2/3.2, Sentence Transformers, Google Web Speech API  
 
