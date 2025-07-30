@@ -1,4 +1,4 @@
-# 👋 Hey There, I’m Sundar V! 🚀
+<img width="1376" height="337" alt="image" src="https://github.com/user-attachments/assets/83f6f458-2da8-467a-9556-0245eededd82" /># 👋 Hey There, I’m Sundar V! 🚀
 
 **Data Science Enthusiast | AI & ML Innovator | Real-Time Tech Builder**
 
@@ -64,4 +64,42 @@ Built an interactive PDF QA system that understands both text and images from up
 - 💻 **User Interface:** Deployed using Streamlit for real-time uploads and chat-style querying.
 
 **Tech Used:** Tesseract OCR, PyMuPDF, LangChain, FAISS, HuggingFace, LLaMA2 (Ollama), Streamlit
+
+### 🧬 Disease Prediction System
+
+A Streamlit web app that predicts diseases based on selected symptoms using AI.
+
+- 🩺 **Model:** XGBoost trained on a symptom–disease dataset.
+- 🧹 **Preprocessing:** One-hot encoding, SMOTE for class balance.
+- 🎯 **Feature Selection:** Top 50 symptoms via SelectKBest.
+- 🔧 **Tuning:** RandomizedSearchCV to optimize performance.
+- 📊 **Output:** Predicts diseases with probabilities (e.g., “Flu: 85%”).
+- 💻 **UI:** Simple, user-friendly interface built with Streamlit.
+
+**Tech Used:** XGBoost, SMOTE, SelectKBest, RandomizedSearchCV, Streamlit
+
+### 🛡️ Seatbelt Detection System with Vision Transformer
+
+AI-powered system to detect seatbelt usage from roadside camera images for improved traffic safety.
+
+- 🧠 **Model:** Fine-tuned Vision Transformer (ViT) with custom fully connected layers.
+- 🖼️ **Preprocessing:** Image resizing, augmentation, normalization, and dropout.
+- 🛠️ **Training:** Trained with AdamW optimizer, early stopping over 50 epochs.
+- 📉 **Challenge Solved:** Reduced overfitting while achieving high accuracy.
+- 🚗 **Impact:** Helps enforce seatbelt use via automated camera analysis.
+
+**Tech Used:** Vision Transformer (ViT), PyTorch, AdamW, Data Augmentation, Early Stopping
+
+### 🚗 AI-Powered Road Safety Analysis System
+
+A multi-modal AI system to predict road accidents and detect risks like potholes from images and voice input.
+
+- 📊 **Forecasting:** Cleaned a 2020 traffic accident dataset and used a Deep Learning Model Like **Transformer**,**ARIMA**,**LSTM**,**TCN**,**Prophet** in TensorFlow to predict daily accident trends.
+- 🖼️ **Image Risk Detection:** Used **LLaVA** to analyze uploaded road images for dangers (e.g., potholes).
+- 🎙️ **Voice Input:** Used **Whisper** to convert questions (English/Tamil) into text; **LLaVA** answers and **gTTS** speaks it back.
+- 🌐 **User Interface:** Built using **Streamlit + Gradio** for interactive, multilingual access.
+- ⚙️ **Optimization:** Removed noisy data and deployed a lightweight LLaVA model for faster response.
+
+**Tech Used:** Transformer, ARIMA, LSTM, Prophet, TCN, TensorFlow, LLaVA, Whisper, gTTS, Streamlit, Gradio
+
 
