@@ -94,7 +94,7 @@ AI-powered system to detect seatbelt usage from roadside camera images for impro
 
 A multi-modal AI system to predict road accidents and detect risks like potholes from images and voice input.
 
-- 📊 **Forecasting:** Cleaned a 2020 traffic accident dataset and used a Deep Learning Model Like **Transformer**,**ARIMA**,**LSTM**,**TCN**,**Prophet** in TensorFlow to predict daily accident trends.
+- 📊 **Forecasting:** Cleaned a 2020 traffic accident dataset and used a Deep Learning Model Like **Transformer**, **ARIMA**, **LSTM**, **TCN**, **Prophet** in TensorFlow to predict daily accident trends.
 - 🖼️ **Image Risk Detection:** Used **LLaVA** to analyze uploaded road images for dangers (e.g., potholes).
 - 🎙️ **Voice Input:** Used **Whisper** to convert questions (English/Tamil) into text; **LLaVA** answers and **gTTS** speaks it back.
 - 🌐 **User Interface:** Built using **Streamlit + Gradio** for interactive, multilingual access.
