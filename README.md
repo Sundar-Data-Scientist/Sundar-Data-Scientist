@@ -117,10 +117,9 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
 
 ---
 # 📊 GitHub Stats and Activity:
-![](https://github-readme-stats.vercel.app/api?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://nirzak-streak-stats.vercel.app/?user=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundar-Data-Scientist&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sundar-Data-Scientist&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
