@@ -41,12 +41,12 @@ Here’s a snapshot of my core technical skills—well-rounded, battle-tested, a
 
 I created the **Smart Interview System**, a web platform that uses AI to make hiring **faster**, **fairer**, and **more efficient**. It automates three major interview types:
 
-- ✅ Aptitude Tests  
-- 💬 Q&A Interviews  
-- 🧠 HR Interviews (automated or live)
+1. Aptitude Tests  
+2. Q&A Interviews  
+3. HR Interviews (automated or live)
 ---
 - 🧠 **Aptitude Test:** Scored spoken answers with TF-IDF.
-- 💬 **Q&A Round:** Sentence Transformers select job-relevant questions, LLaMA 2 generates QA pairs, and TF-IDF scores responses.
+- 💬 **Q&A Interviews:** Sentence Transformers select job-relevant questions, LLaMA 2 generates QA pairs, and TF-IDF scores responses.
 - 👤 **HR Interview:** LLaMA 3.2 evaluates open-ended answers on clarity and relevance.
 - 🎯 **Monitoring:** YOLOv5 ensures one person; Faster R-CNN detects mobile phones. 3 violations auto-end the interview.
 - 🗣️ **Speech Recognition:** Google Web Speech API converts voice to text.
