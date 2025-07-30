@@ -37,7 +37,7 @@ Here’s a snapshot of my core technical skills—well-rounded, battle-tested, a
 ---
 
 ### 🤖 Smart AI Interview System for Recruitment & Skill Assessment
--
+--
 I created the **Smart Interview System**, a web platform that uses AI to make hiring **faster**, **fairer**, and **more efficient**. It automates three major interview types:
 
 - ✅ Aptitude Tests  
