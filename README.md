@@ -44,7 +44,6 @@ I created the **Smart Interview System**, a web platform that uses AI to make hi
 1. Aptitude Tests  
 2. Q&A Interviews  
 3. HR Interviews (automated or live)
----
 - 🧠 **Aptitude Test:** Scored spoken answers with TF-IDF.
 - 💬 **Q&A Interviews:** Sentence Transformers select job-relevant questions, LLaMA 2 generates QA pairs, and TF-IDF scores responses.
 - 👤 **HR Interview:** LLaMA 3.2 evaluates open-ended answers on clarity and relevance.
