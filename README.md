@@ -1,4 +1,4 @@
-<img width="1376" height="337" alt="image" src="https://github.com/user-attachments/assets/83f6f458-2da8-467a-9556-0245eededd82" /># 👋 Hey There, I’m Sundar V! 🚀
+# 👋 Hey There, I’m Sundar V! 🚀
 
 **Data Science Enthusiast | AI & ML Innovator | Real-Time Tech Builder**
 
