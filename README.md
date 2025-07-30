@@ -11,8 +11,6 @@
 
 Welcome to my data-driven world! I’m **Sundar V**, a dedicated and curious **Data Science professional** with a solid foundation in **mathematics** and hands-on expertise in **Machine Learning**, **Deep Learning**, **Computer Vision**,**NLP** and **Generative AI**.
 
-From building smart interview systems and seatbelt detection apps to crafting real-time accident prevention models, I thrive at the intersection of code and creativity. I love pushing boundaries, learning fast, and applying my skills to solve real-world problems.
-
 - **What Drives Me:** A passion for tech, an obsession with impact, and a love for experimentation. I enjoy blending innovation with utility to create solutions that truly make a difference.
 
 - **Career Goal:** To become a leading **AI architect and problem-solver**, designing intelligent systems that empower industries and people—especially in critical areas like healthcare, transport, and automation.
