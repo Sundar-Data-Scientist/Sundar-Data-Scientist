@@ -3,7 +3,7 @@
 **Data Science Enthusiast | AI & ML Innovator | Real-Time Tech Builder**
 
 🎓 Currently pursuing **M.Sc in Data Science** @ *SASTRA Deemed to be University*  
-🔍 Based in Tamil Nadu, I specialize in crafting **AI-driven applications**, building **predictive models**, and diving deep into **real-time systems** using cutting-edge tech.
+🔍I specialize in **AI-driven applications**, **predictive modeling**, and **real-time systems** using cutting-edge technology. I’m passionate about building innovative solutions that impact healthcare and business optimization.
 
 ---
 
