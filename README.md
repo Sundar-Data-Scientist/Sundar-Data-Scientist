@@ -116,5 +116,32 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
 - **Why It Rocked:** This internship pushed me to apply theory in production-like environments and build systems that are scalable, smart, and impactful.
 
 ---
+# 📈 Stats and Activity
+
+Here’s a quick look at my GitHub contributions and favorite programming languages:
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+🔹 **Total Stars Earned:** `0`  
+🔹 **Total Commits (2025):** `56`  
+🔹 **Total Issues:** `0`  
+🔹 **Contributed to (last year):** `1`
+
+  </td>
+  <td valign="top" width="50%">
+    
+### 🎯 Most Used Languages  
+- 🟦 Python `85.19%`  
+- 🟧 Jupyter Notebook `13.13%`  
+- ⚫ C `0.83%`  
+- 🟦 TypeScript `0.44%`  
+- 🟨 Cython `0.23%`  
+- 🟥 C++ `0.19%`  
+
+  </td>
+  </tr>
+</table>
 
 
