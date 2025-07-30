@@ -113,3 +113,36 @@ A multi-modal AI system to predict road accidents and detect risks like potholes
   - Engineered a **Smart AI Interview System** with automated evaluation, face/mobile detection, and real-time scoring.
 - **Why It Rocked:** This internship pushed me to apply theory in production-like environments and build systems that are scalable, smart, and impactful.
 
+---
+# 📊 Stats and Activity
+
+Welcome to my GitHub profile! Here's a quick overview of my coding journey and activity.
+
+## 🚀 GitHub Summary
+
+- ⭐ **Total Stars Earned**: 0  
+- 🧠 **Total Commits (2025)**: 56  
+- 🐛 **Total Issues**: 0  
+- 📌 **Repositories Contributed To (Last Year)**: 1  
+
+## 💻 Most Used Languages
+
+| Language            | Percentage |
+|---------------------|------------|
+| Python              | 85.19%     |
+| Jupyter Notebook    | 13.13%     |
+| C                   | 0.83%      |
+| TypeScript          | 0.44%      |
+| Cython              | 0.23%      |
+| C++                 | 0.19%      |
+
+> I'm primarily focused on Python-based development, especially using Jupyter Notebooks for data science and AI projects.
+
+---
+
+Feel free to explore my repositories and connect!
+
+📫 **Contact**: [YourEmail@example.com]  
+🔗 **Portfolio / Website**: [YourWebsite.com]
+
+
