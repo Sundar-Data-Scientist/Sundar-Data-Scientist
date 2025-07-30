@@ -94,12 +94,22 @@ AI-powered system to detect seatbelt usage from roadside camera images for impro
 
 A multi-modal AI system to predict road accidents and detect risks like potholes from images and voice input.
 
-- 📊 **Forecasting:** Cleaned a 2020 traffic accident dataset and used a Deep Learning Model Like **Transformer**, **ARIMA**, **LSTM**, **TCN**, **Prophet** in TensorFlow to predict daily accident trends.
+- 📊 **Forecasting:** Cleaned a 2020 traffic accident dataset and used a Deep Learning Model Like **Transformer**, **ARIMA**, **LSTM**, **TCN**, **Prophet**  to predict daily accident trends.
 - 🖼️ **Image Risk Detection:** Used **LLaVA** to analyze uploaded road images for dangers (e.g., potholes).
 - 🎙️ **Voice Input:** Used **Whisper** to convert questions (English/Tamil) into text; **LLaVA** answers and **gTTS** speaks it back.
-- 🌐 **User Interface:** Built using **Streamlit + Gradio** for interactive, multilingual access.
+- 🌐 **User Interface:** Built using **Gradio** for interactive, multilingual access.
 - ⚙️ **Optimization:** Removed noisy data and deployed a lightweight LLaVA model for faster response.
 
-**Tech Used:** Transformer, ARIMA, LSTM, Prophet, TCN, TensorFlow, LLaVA, Whisper, gTTS, Streamlit, Gradio
+**Tech Used:** Transformer, ARIMA, LSTM, Prophet, TCN, TensorFlow, LLaVA, Whisper, gTTS, Gradio
 
+## 💼 Real-World Experience
+
+### AI & ML Intern @ VDart  
+*Jan 2025 – May 2025*
+
+- **Mentor:** Mr. Derrick Alex — a visionary in AI who helped me navigate advanced real-world projects.
+- **What I Did:** Built and deployed AI-powered applications with real-time capabilities using tools like FastAPI.
+- **Big Wins:**
+  - Engineered a **Smart AI Interview System** with automated evaluation, face/mobile detection, and real-time scoring.
+- **Why It Rocked:** This internship pushed me to apply theory in production-like environments and build systems that are scalable, smart, and impactful.
 
